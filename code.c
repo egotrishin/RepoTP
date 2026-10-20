@@ -2,6 +2,8 @@
 
 int main()
 {
-	printf("Get out");
+	int a,b;
+	printf("Введи два числа целых числа");
+	scanf("%d%d",&a,&b); 
 	return 0;
 }
